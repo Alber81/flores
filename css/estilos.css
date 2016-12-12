@@ -1,0 +1,46 @@
+body {
+	background: repeating-linear-gradient(135deg, #FCBA9C, #C3F2AB);
+}
+.cabecera {
+	text-align: center;
+	font-family: 'Indie Flower';
+	text-shadow: 2px 2px 3px #757575;
+	/*#ff5439;*/
+}
+.cabecera img {
+	width: 340px;
+    box-shadow: 2px 2px 5px #999;
+}
+.rrss {
+    float: left;
+    border: outset;    
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding: 3.5px 4.5px;
+    margin-top: 15px;
+}
+.aviso {
+    border: 3px groove;
+    border-radius: 5px;
+    font-style: italic;
+    margin-top: 15px;
+}
+.aviso img {
+	width: 100px;
+}
+.container {
+    font-family: 'Sumana', serif;
+}
+.container input {
+    font-family: 'Times New Roman', serif;
+}
+.radiocard img {
+    box-shadow: 2px 2px 5px #999;
+}
+body textarea {
+    box-shadow: 2px 2px 5px #999;
+}
+body select {
+    font-family: "Times New Roman", serif;
+
+}
